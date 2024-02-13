@@ -9,7 +9,7 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
-- 🔧  I’m 4th year student in Hanoi Univeristy of Science and Technology</br>
+- 🔧  I’m graduated from Hanoi Univeristy of Science and Technology</br>
 - 📖  I’m currently learning NodeJs and framework of it</br>
 - ❄️  I alway learn new things</br>
 </br>
