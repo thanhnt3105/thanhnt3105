@@ -1,8 +1,8 @@
- 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <h1 align="center">Hi , I'm Thanh Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Backend+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Move+forward;Eager+to+learn" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
@@ -13,7 +13,6 @@
 - 📖  I’m currently learning NodeJs and framework of it</br>
 - ❄️  I alway learn new things</br>
 </br>
-
 
 <table width="100%" >
 
@@ -75,6 +74,7 @@
 </p>
 
 ### 👉 Frontend Development
+
 <p align="left"> 
   &emsp; 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -115,6 +115,7 @@
 </p>
 
 ### 👉 Backend Development
+
 <p align="left">
    &emsp; 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -174,9 +175,8 @@
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thanhnt3105&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
- 
 ### 👉 Connect with Me
+
 </br>
 <p align="center">
 </br>
